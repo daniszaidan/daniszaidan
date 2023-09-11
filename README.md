@@ -6,7 +6,7 @@ An enthusiastic Programmer and Designer with 4+ years of experience.
 Passionate and adaptable Frontend Developer with expertise in React.js ecosystem. 
 Excited to expand my skill set and knowledge by exploring UI/UX Design.
 I am a person who likes to keep learning, discover new things, efficiency, and love to experiment.
-<br />
+<br /><br />
 See my portfolio at https://daniszaidan.vercel.app/
 
 <!--
