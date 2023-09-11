@@ -2,9 +2,12 @@
 
 Hi, my name is Danis Zaidan.
 <br />
-I’m currently working as Frontend Developer, and currently learning about **React.js** and **UI/UX Design** for hobbies and professional purposes.
+An enthusiastic Programmer and Designer with 4+ years of experience. 
+Passionate and adaptable Frontend Developer with expertise in React.js ecosystem. 
+Excited to expand my skill set and knowledge by exploring UI/UX Design.
+I am a person who likes to keep learning, discover new things, efficiency, and love to experiment.
 <br />
-Have any project in mind ? Feel free to visit my <b>[Portfolio Website](https://daniszaidan.github.io/)</b> or contact me in daniszaidan@gmail.com
+See my portfolio at https://daniszaidan.vercel.app/
 
 <!--
 **daniszaidan/daniszaidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
