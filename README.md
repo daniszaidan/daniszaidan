@@ -1,6 +1,5 @@
 ### Hello, Salam Kenal 👋
 
-<br />
 My name is Danis Zaidan, an enthusiastic Frontend Developer with 5+ years of experience in React.js and Next.js ecosystem. Specializing in crafting high quality, visually impressive, and user-focused digital experiences to help achieve your business goals.
 I love continuously learning, discover new things, and experimenting with ideas that balance design, functionality, and efficiency.
 <br /><br />
